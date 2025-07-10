@@ -1,6 +1,6 @@
 # MediMock - Frontend
 
-MediMock is a Mock AI-powered symptom checker. It simulates symptom tracking, charting, and admin user management using mock data and dummy responses.  This is the **frontend** built with **React**, **TypeScript**, **Material UI**, and **Zod** for validation.
+MediMock is a Mock AI-powered symptom checker. It simulates symptom tracking, charting, and admin user management using mock data and dummy responses. This is the **frontend** built with **React**, **TypeScript**, **Material UI**, and **Zod** for validation.
 
 ---
 
@@ -27,24 +27,6 @@ MediMock is a Mock AI-powered symptom checker. It simulates symptom tracking, ch
 - Zod
 - Axios
 - Chart (MUI X Charts)
-
----
-
-## 📂 Folder Structure
-
-src/
-├── components/
-│ └── Navbar, LoginForm, RegisterForm, SymptomForm, SymptomChart, ...
-├── context/
-│ └── AuthContext.tsx, AuthProvider.tsx
-├── hooks/
-│ └── useAuth.ts
-├── pages/
-│ └── Dashboard, Profile, Symptom, AdminPanel, Login, Register
-├── utils/
-│ └── axios.ts
-├── App.tsx
-├── main.tsx
 
 ---
 
